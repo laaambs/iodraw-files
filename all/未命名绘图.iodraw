@@ -25,6 +25,14 @@
         <mxCell id="MAI7iavkIbwpnczlHxVz-9" value="遍历候选序列集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="460" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MAI7iavkIbwpnczlHxVz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAI7iavkIbwpnczlHxVz-10" target="MAI7iavkIbwpnczlHxVz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAI7iavkIbwpnczlHxVz-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MAI7iavkIbwpnczlHxVz-11">
+          <mxGeometry x="-0.0778" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MAI7iavkIbwpnczlHxVz-10" value="当前序列是否满足终止条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="530" width="230" height="60" as="geometry" />
         </mxCell>
