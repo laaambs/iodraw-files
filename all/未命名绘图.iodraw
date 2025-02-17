@@ -56,6 +56,9 @@
         <mxCell id="MAI7iavkIbwpnczlHxVz-18" value="根据预定义的置信度公式计算每个候选子答案的置信度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="780" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MAI7iavkIbwpnczlHxVz-19" value="将当前序列及对应似然概率加入候选子答案集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="850" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
