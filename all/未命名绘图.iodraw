@@ -25,6 +25,9 @@
         <mxCell id="MAI7iavkIbwpnczlHxVz-9" value="遍历候选序列集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="460" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MAI7iavkIbwpnczlHxVz-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="550" width="230" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
