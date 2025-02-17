@@ -36,8 +36,8 @@
         <mxCell id="MAI7iavkIbwpnczlHxVz-10" value="当前序列是否满足终止条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="530" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MAI7iavkIbwpnczlHxVz-13" value="遍历候选序列集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="470" width="170" height="40" as="geometry" />
+        <mxCell id="MAI7iavkIbwpnczlHxVz-13" value="将当前序列及对应似然概率加入候选子答案集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="620" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
