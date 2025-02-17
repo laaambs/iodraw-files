@@ -81,7 +81,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MAI7iavkIbwpnczlHxVz-14" value="候选序列集合" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MAI7iavkIbwpnczlHxVz-14" value="候选序列集合是否遍历完毕？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="690" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAI7iavkIbwpnczlHxVz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MAI7iavkIbwpnczlHxVz-18" target="MAI7iavkIbwpnczlHxVz-19">
