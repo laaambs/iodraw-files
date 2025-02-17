@@ -36,6 +36,11 @@
         <mxCell id="MAI7iavkIbwpnczlHxVz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAI7iavkIbwpnczlHxVz-10" target="MAI7iavkIbwpnczlHxVz-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MAI7iavkIbwpnczlHxVz-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MAI7iavkIbwpnczlHxVz-16">
+          <mxGeometry y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MAI7iavkIbwpnczlHxVz-10" value="当前序列是否满足终止条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="530" width="230" height="60" as="geometry" />
         </mxCell>
@@ -47,6 +52,9 @@
         </mxCell>
         <mxCell id="MAI7iavkIbwpnczlHxVz-14" value="候选子答案集合是否达到指定大小？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="690" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAI7iavkIbwpnczlHxVz-18" value="将当前序列及对应似然概率加入候选子答案集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="780" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
