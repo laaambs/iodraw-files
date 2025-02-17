@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MAI7iavkIbwpnczlHxVz-1" value="遍历子问题集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="310" y="40" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MAI7iavkIbwpnczlHxVz-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;获取当前子问题，构建提示输入多模态模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="MAI7iavkIbwpnczlHxVz-2" value="获取当前子问题，构建提示输入多模态模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="110" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MAI7iavkIbwpnczlHxVz-3" value="初始化集束搜索参数及候选序列集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
