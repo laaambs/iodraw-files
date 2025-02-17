@@ -99,7 +99,7 @@
           <mxGeometry x="310" y="780" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MAI7iavkIbwpnczlHxVz-19" value="选择置信度最高的子答案，作为子问题对应的子答案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="860" width="170" height="40" as="geometry" />
+          <mxGeometry x="310" y="850" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
