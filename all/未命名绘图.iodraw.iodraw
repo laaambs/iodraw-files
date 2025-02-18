@@ -10,17 +10,32 @@
         <mxCell id="Sv5jT3H2XnBkncJgibT6-1" value="多模态问题" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Sv5jT3H2XnBkncJgibT6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sv5jT3H2XnBkncJgibT6-2" target="Sv5jT3H2XnBkncJgibT6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sv5jT3H2XnBkncJgibT6-2" value="生成模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv5jT3H2XnBkncJgibT6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sv5jT3H2XnBkncJgibT6-4" target="Sv5jT3H2XnBkncJgibT6-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sv5jT3H2XnBkncJgibT6-4" value="图片描述及&lt;div&gt;子问题集合&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Sv5jT3H2XnBkncJgibT6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sv5jT3H2XnBkncJgibT6-5" target="Sv5jT3H2XnBkncJgibT6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sv5jT3H2XnBkncJgibT6-5" value="回答模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="320" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Sv5jT3H2XnBkncJgibT6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sv5jT3H2XnBkncJgibT6-6" target="Sv5jT3H2XnBkncJgibT6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sv5jT3H2XnBkncJgibT6-6" value="子问题-子答案集合" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv5jT3H2XnBkncJgibT6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sv5jT3H2XnBkncJgibT6-7" target="Sv5jT3H2XnBkncJgibT6-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sv5jT3H2XnBkncJgibT6-7" value="推理&lt;span style=&quot;background-color: initial;&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="480" width="120" height="50" as="geometry" />
