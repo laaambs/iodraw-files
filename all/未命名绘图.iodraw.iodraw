@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Sv5jT3H2XnBkncJgibT6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sv5jT3H2XnBkncJgibT6-1" target="Sv5jT3H2XnBkncJgibT6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sv5jT3H2XnBkncJgibT6-1" value="多模态问题" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="130" height="50" as="geometry" />
         </mxCell>
@@ -19,7 +22,7 @@
         <mxCell id="Sv5jT3H2XnBkncJgibT6-6" value="子问题-子答案集合" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Sv5jT3H2XnBkncJgibT6-7" value="回答模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv5jT3H2XnBkncJgibT6-7" value="推理&lt;span style=&quot;background-color: initial;&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="480" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Sv5jT3H2XnBkncJgibT6-8" value="推理结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
