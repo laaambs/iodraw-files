@@ -7,7 +7,7 @@
         <mxCell id="Sv5jT3H2XnBkncJgibT6-1" value="多模态问题" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Sv5jT3H2XnBkncJgibT6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv5jT3H2XnBkncJgibT6-2" value="生成模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
